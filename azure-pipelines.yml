@@ -9,7 +9,7 @@ steps:
 - checkout: self
   displayName: 'Checkout Repository'
 
-# 2. Verify Java installation (skip if Java is already installed on your self-hosted agent)
+# 2. Verify Java installation 
 - script: |
     java -version
   displayName: 'Verify Java Installation'
