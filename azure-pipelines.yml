@@ -5,11 +5,7 @@ pool:
   vmImage: ubuntu-latest  # Use Ubuntu agent with pre-installed Java
 
 steps:
-# 1. Checkout the repository (if not already done automatically by Azure Pipelines)
-- checkout: self
-  displayName: 'Checkout Repository'
-
-# 2. Run the Talend Job using the .jar file
+# 1. Run the Talend Job using the .jar file
 - script: |
     echo "Running Talend Job"
     java -jar MyRESTService_0.1.jar 
