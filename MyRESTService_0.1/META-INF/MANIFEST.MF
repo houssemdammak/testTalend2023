@@ -1,0 +1,361 @@
+Manifest-Version: 1.0
+
+Name: MyRESTService/MyRESTService_run.bat
+SHA-256-Digest: OnXe+1mrw0q5uRt+MXbI5ILwownYbP0RG58sfAbVEMo=
+
+Name: MyRESTService/MyRESTService_run.ps1
+SHA-256-Digest: TGwMXp086mm5fkxuXNMN7brRlYBNVkzt9301QnS+Exg=
+
+Name: MyRESTService/MyRESTService_run.sh
+SHA-256-Digest: vpLnxcaQVG1s74Yz0meDI9sE2c/87/I8gDJ80dK5PdQ=
+
+Name: MyRESTService/items/web_service_talend/.settings/links/_ZkuUkO8M
+ Ee-KIvSEiRouvQ.link
+SHA-256-Digest: 9cNtVZOHP/tUeAJ8OdPChmw4qGS6gF1uMHJpHz7MxuM=
+
+Name: MyRESTService/items/web_service_talend/.settings/migration_task.
+ index
+SHA-256-Digest: fQBAI1YVtDpoXhObeWyg7as2Eb/JiQZ1LsSon0rHcQo=
+
+Name: MyRESTService/items/web_service_talend/.settings/project.setting
+ s
+SHA-256-Digest: E69mGYphms2YbL9Jjbbp4x9DFUNym9V0kFAfP/b5Mmg=
+
+Name: MyRESTService/items/web_service_talend/.settings/relationship.in
+ dex
+SHA-256-Digest: PTAIhTunX+fQJawuX1Hk5hdI7y5EPRwmn3Dp/b+HIQo=
+
+Name: MyRESTService/items/web_service_talend/context/DB_Context_0.1.it
+ em
+SHA-256-Digest: fxOSy9Bsn4+I8sK78JLbRKIlMIi0LMmWWuet2VlMjrU=
+
+Name: MyRESTService/items/web_service_talend/context/DB_Context_0.1.pr
+ operties
+SHA-256-Digest: 6Y5JGugicq20m1L0Dim9Py+zVE2WK/8SVWO1A1CiqvM=
+
+Name: MyRESTService/items/web_service_talend/process/RestfulServices/M
+ yRESTService_0.1.item
+SHA-256-Digest: 5sfqa+5Yj31yLNirT2UpuMPsGa0LEJqFZZnynX9vDvM=
+
+Name: MyRESTService/items/web_service_talend/process/RestfulServices/M
+ yRESTService_0.1.properties
+SHA-256-Digest: xyRtkFTAf/qJ1nsYuWBvgdaj84STB/C4wQOfotraW8E=
+
+Name: MyRESTService/items/web_service_talend/process/RestfulServices/M
+ yRESTService_0.1.screenshot
+SHA-256-Digest: fLZfFNTxCzgoHxQ/nf+67lM9v94jYMuTS36HCvm20l0=
+
+Name: MyRESTService/items/web_service_talend/talend.project
+SHA-256-Digest: A3tkuez9x7M358LsZi5CagJsHfIsBM4U6m013JE+ipo=
+
+Name: MyRESTService/log4j2.xml
+SHA-256-Digest: +BAZJFvAXs4z6ZMcORfUZveRpqHD6N51/7kAnQjet3I=
+
+Name: MyRESTService/myrestservice_0_1.jar
+SHA-256-Digest: T2StazfRf8VGc9u0mBWhp4JaUgyMVm2PEV8QcgV2gsE=
+
+Name: MyRESTService/src/main/java/web_service_talend/myrestservice_0_1
+ /MyRESTService.java
+SHA-256-Digest: wlMgopTi8gjvKOXN7dlUnjDPyzw+2+iSAyYIdb0YH+w=
+
+Name: MyRESTService/src/main/resources/web_service_talend/myrestservic
+ e_0_1/contexts/Default.properties
+SHA-256-Digest: PNxXa4Cz2xePVmYHr1h1DIIsTxixISgza/E7UrgFwaU=
+
+Name: MyRESTService/src/main/resources/web_service_talend/myrestservic
+ e_0_1/contexts/Development.properties
+SHA-256-Digest: PNxXa4Cz2xePVmYHr1h1DIIsTxixISgza/E7UrgFwaU=
+
+Name: MyRESTService/web_service_talend/myrestservice_0_1/contexts/Defa
+ ult.properties
+SHA-256-Digest: PNxXa4Cz2xePVmYHr1h1DIIsTxixISgza/E7UrgFwaU=
+
+Name: MyRESTService/web_service_talend/myrestservice_0_1/contexts/Deve
+ lopment.properties
+SHA-256-Digest: PNxXa4Cz2xePVmYHr1h1DIIsTxixISgza/E7UrgFwaU=
+
+Name: jobInfo.properties
+SHA-256-Digest: R/nQFlyWIL+q3cEWEoQ8XZuPC+/FzJXyw25jVCj+va0=
+
+Name: lib/accessors-smart-2.4.11.jar
+SHA-256-Digest: LqesA7G3eW2exZ/PonG2b/UM2AGbjByZf1iDvDD1pJI=
+
+Name: lib/antlr-runtime-3.5.2.jar
+SHA-256-Digest: zj/I7LEPOemjzdy7LONQ0nLZzT0LHhjm/nPDuTichzQ=
+
+Name: lib/aopalliance-1.0.jar
+SHA-256-Digest: Ct3sZw/tzT8RPFyAkdeDKA0j9146y4QbYanNsHk3agg=
+
+Name: lib/asm-9.5.jar
+SHA-256-Digest: ti6EtZgHKXUbBFjFNM8TZvcnVCu40VhiEzVoKkYPA1M=
+
+Name: lib/audit-common-1.16.1.jar
+SHA-256-Digest: rVR30sNAjAR+M3VTgkcw9ZL9nCLIqeagi2zk2Ybla5Y=
+
+Name: lib/audit-log4j2-1.16.1.jar
+SHA-256-Digest: e+OcvVqmYgsS9vp71LgM5XYMNjpTrXzQ8UrofVdXxx8=
+
+Name: lib/bcprov-jdk18on-1.78.1.jar
+SHA-256-Digest: rdWRXmrPxqtYNuH9il4hxkiFNqjB8h84bus78oC3Atc=
+
+Name: lib/commons-codec-1.15.jar
+SHA-256-Digest: s+n21jp5AQm/DQVmEfvtHPaQVYJt7+uYlKcTadJG7WM=
+
+Name: lib/commons-lang3-3.10.jar
+SHA-256-Digest: KJaK5V//RlSUCDrrqFb4gkw0kCMpiCv2HnckapHiWqk=
+
+Name: lib/commons-logging-1.2.jar
+SHA-256-Digest: 2t3qHqC+D1aXirMAa4rJKDSv7vvZt+TmMW/KV98PpjY=
+
+Name: lib/cryptacular-1.2.5.jar
+SHA-256-Digest: xgDRrmG1sP8TkeAOtvs5AgHkYSw6ry3BuUBQyHhIQL4=
+
+Name: lib/crypto-utils-7.1.20.jar
+SHA-256-Digest: Wo/iMqlECk6uruzyCkQiKxa62N3ZE/IJ3OGC0JPxfCo=
+
+Name: lib/cxf-core-3.5.9.jar
+SHA-256-Digest: q4/HhPFFNmc+64mylSTVHEjFMd1XBZelGGoilM/o9Zw=
+
+Name: lib/cxf-rt-bindings-soap-3.5.9.jar
+SHA-256-Digest: 7iwPQ4Am1EpKNww6TyOISetR8+Dym0l9EQb0VoXFpqs=
+
+Name: lib/cxf-rt-databinding-jaxb-3.5.9.jar
+SHA-256-Digest: /TjIowkjc/1N9IOBdMZA44NfPAQz+/Rr/LJsbFrHce4=
+
+Name: lib/cxf-rt-features-logging-3.5.9.jar
+SHA-256-Digest: EM7vyrwlS5fK/uxEeAXYOvpgV//90OKz9eAVLDdxIgk=
+
+Name: lib/cxf-rt-frontend-jaxrs-3.5.9.jar
+SHA-256-Digest: 1qS+4N3IPWMoyer0aobZwslv2QI0nI8XBdKcnRxxoo4=
+
+Name: lib/cxf-rt-rs-client-3.5.9.jar
+SHA-256-Digest: OppiOqfQ2uG78KFtoTVLQfu+G+O/7s7+FRQovHaSnPw=
+
+Name: lib/cxf-rt-rs-extension-providers-3.5.9.jar
+SHA-256-Digest: Pg+Aaj2+kybKxPhx7CmEbeP+WaC4TuC573d472EFslk=
+
+Name: lib/cxf-rt-rs-security-oauth2-3.5.9.jar
+SHA-256-Digest: VFkeOTaKrrXyHf5JEACbQtjvoS/6006P4O5Zftm84e4=
+
+Name: lib/cxf-rt-security-3.5.9.jar
+SHA-256-Digest: OB3dJn5xM5ogkP0Tj6obqFqaLo7qlQ/Sk7SK22bUg9c=
+
+Name: lib/cxf-rt-security-saml-3.5.9.jar
+SHA-256-Digest: UOPPsnz4+5cTByp3bN+VL4N6HEQOB0SN6QmausxvorI=
+
+Name: lib/cxf-rt-transports-http-3.5.9.jar
+SHA-256-Digest: +HAWuMzyWytTE+hTsTfykEXL8FFxSXZ1EFMI+B/eeRI=
+
+Name: lib/cxf-rt-ws-security-3.5.9.jar
+SHA-256-Digest: KlZoMTk363kTCcKjOGSGcnVqWZCcM+lKuT0/Kit5qSM=
+
+Name: lib/cxf-rt-wsdl-3.5.9.jar
+SHA-256-Digest: UHyWHsMZ4XnwC4Inao32XT/PIHYJU1u3ogQqa1y/gWY=
+
+Name: lib/dom4j-2.1.3.jar
+SHA-256-Digest: VJ8wB8YpD2qQHlfR0zG07Q5r9zhPeL8QMW/87sqDTeY=
+
+Name: lib/ehcache-3.9.3.jar
+SHA-256-Digest: MPcJRiZnx/PHVMRb5UA0kiUj6my5Vkvmzq9z6dlZpjQ=
+
+Name: lib/guava-32.0.1-jre.jar
+SHA-256-Digest: vX+iJ1kfuFCWd9DREiz5UVjzuKn0VlP1goHYefbcSMU=
+
+Name: lib/istack-commons-runtime-3.0.10.jar
+SHA-256-Digest: hSOef/8kY7fYqcOWL3juPixtuUVcck8pKB4sX2Y+Ir4=
+
+Name: lib/jakarta.annotation-api-1.3.5.jar
+SHA-256-Digest: hfsD/AVM3078qO/ZtnEru0GOGrmCQcRTnIWFu8I+G4o=
+
+Name: lib/jakarta.jws-api-2.1.0.jar
+SHA-256-Digest: 1MMh9HpyABl3+hHS30CNsjv19G6VSussbx7NpN/vj9g=
+
+Name: lib/jakarta.xml.bind-api-2.3.3.jar
+SHA-256-Digest: wEU59HLppt0MdoXqgtZ3KCJpq457rKLhRQDjgeDGzsU=
+
+Name: lib/jakarta.xml.soap-api-1.4.1.jar
+SHA-256-Digest: 8VpxTAqiDRHNQOvroXIJZ89Ttx9wmadfu7LFiWD+tBM=
+
+Name: lib/jasypt-1.9.3.jar
+SHA-256-Digest: 9IH7uN2M51S/3nVSr0/L6MXjA9U2Y7s9jOnUM44OVao=
+
+Name: lib/javassist-3.30.2-GA.jar
+SHA-256-Digest: 66NykJlLXkho86+Y/xE/YkSmsJk4XZrUaIEwfTywGq8=
+
+Name: lib/javax.activation-1.2.0.jar
+SHA-256-Digest: mTMCsWzXBW8h53nMV30XWoELtJAO9zzY+/K1D5KLqc4=
+
+Name: lib/javax.ws.rs-api-2.1.jar
+SHA-256-Digest: GkKViJQWxpcq3c1CXf7u5ubt4RDostyLSQROm0AK1ds=
+
+Name: lib/jaxb-runtime-2.3.2.jar
+SHA-256-Digest: 5uCh6J+2/3hieeagCC1c71LcLr5nBT0EGABzdlK0/Rs=
+
+Name: lib/jboss-marshalling-2.0.12.Final.jar
+SHA-256-Digest: 7Re2SqT/qzeztEY0eF/NhjD4stDN5fZYldoFtwVz8EA=
+
+Name: lib/jettison-1.5.4.jar
+SHA-256-Digest: /Dpop8F2iO5QgXNA/vJl2NP2wZLJK77gDRfxim09/to=
+
+Name: lib/job-audit-1.5.jar
+SHA-256-Digest: mpUppLYu6ta41wLbcQ+raoXDaK109p3GFtyKK1YypYI=
+
+Name: lib/joda-time-2.10.10.jar
+SHA-256-Digest: 3Y58khhaZ40be5M/MSCbYgPI/6kemIBHWhvgNGuWF+M=
+
+Name: lib/json-path-2.9.0.jar
+SHA-256-Digest: Eanub4i7MfFFAQjRz2RBN33shKygdetrsjQ74VdXW+o=
+
+Name: lib/json-smart-2.4.11.jar
+SHA-256-Digest: 8v+0AWDYWiRrSkM37cr4EtsoEa8HXy3p4oXwvpmKLuA=
+
+Name: lib/log4j-api-2.17.1.jar
+SHA-256-Digest: sNikyKtPuLGIjQCVgicDsObUeTxBlVAgPanmkZYWHeQ=
+
+Name: lib/log4j-core-2.17.1.jar
+SHA-256-Digest: yWfyI0h5gLk2TpSnx/mooB/T7nwZvb8LD5+MuFEfPUE=
+
+Name: lib/log4j-layout-template-json-2.17.1.jar
+SHA-256-Digest: O7i3RCq2eyIpaK3Z7wRPvjyrgAob6bm5hQS8aSM3brc=
+
+Name: lib/log4j-slf4j-impl-2.17.1.jar
+SHA-256-Digest: 6aA3IOXVB2AJwlMGNdqdCEheKKCw7CBwja3FGvt45B4=
+
+Name: lib/logging-event-layout-1.16.1.jar
+SHA-256-Digest: ISZLnUo5f0jAR59AU6tBLDfbUY8WiebEM1P9k7Zv7SA=
+
+Name: lib/neethi-3.1.1.jar
+SHA-256-Digest: f4wA2bv7qpepekYc3q2yAFS5Vqy3U2eCcDylqaMw/yI=
+
+Name: lib/opensaml-core-3.4.6.jar
+SHA-256-Digest: 2bhnycK2pE11qVUEpGfZS1GD3vCfofPw8alaeWIeweE=
+
+Name: lib/opensaml-profile-api-3.4.6.jar
+SHA-256-Digest: 1KpCaa8NJbftV0DEapiUEj/AUBVGiRGIZ4qnTfDxQbo=
+
+Name: lib/opensaml-saml-api-3.4.6.jar
+SHA-256-Digest: pI5YypqYdTqqP1i0esb5QYkriYD/UjgUkbJEzgIJP84=
+
+Name: lib/opensaml-saml-impl-3.4.6.jar
+SHA-256-Digest: ybgYaJ+82iEfz0pMlwv8FDxZVWRRKd9Tub3Kj3+DwbQ=
+
+Name: lib/opensaml-security-api-3.4.6.jar
+SHA-256-Digest: qExOUdipDDDnDPo32iLk0Y5Ur3R+J3H8TjnG2Mdq5Bo=
+
+Name: lib/opensaml-security-impl-3.4.6.jar
+SHA-256-Digest: ePqE3JPUd1aje/ej5fRDYwmBYH8poKl85eeOjEJyZVo=
+
+Name: lib/opensaml-soap-api-3.4.6.jar
+SHA-256-Digest: dsxHw2EOl9+AkhYRrvgMu8Dyc9zXMj5uCMcJltEhJUo=
+
+Name: lib/opensaml-xacml-api-3.4.6.jar
+SHA-256-Digest: mveC6WdLHls08cFAbpGe6j2RqgkANGXUP2RG219n4+Y=
+
+Name: lib/opensaml-xacml-impl-3.4.6.jar
+SHA-256-Digest: LgsIvZqrsPSe5PmOb+PUiduUKBYn84bIDdx5tP6QMUY=
+
+Name: lib/opensaml-xacml-saml-api-3.4.6.jar
+SHA-256-Digest: wleVtzDPSJLDz7Ad1+wyN9r9yVLXj7aruruB1niukWs=
+
+Name: lib/opensaml-xacml-saml-impl-3.4.6.jar
+SHA-256-Digest: U2NJcE2TpzvNlHX+6JYG5oQfLW9TxYpG/AwvZZzchiA=
+
+Name: lib/opensaml-xmlsec-api-3.4.6.jar
+SHA-256-Digest: +2I0urIfVYLwIUZ6dyu5xM+zKvi8GQBQSBF5WZK7I/0=
+
+Name: lib/opensaml-xmlsec-impl-3.4.6.jar
+SHA-256-Digest: gVH3gjdSBfZpiUH7plbewHfzXkoF6KOpTjG4TMfJEqc=
+
+Name: lib/org.apache.servicemix.specs.jaxws-api-2.2-2.9.0.jar
+SHA-256-Digest: 9m0QTOGBuCXuGs38tQgCQbwpivHqGUarO89LzVzb5cM=
+
+Name: lib/org.talend.dataquality.parser.jar
+SHA-256-Digest: kXr3mOIb97AlhIV+IXSsLQbe+pyDDsQdyZdRWyBXMbc=
+
+Name: lib/routines.jar
+SHA-256-Digest: 1TXwdPtsqwob6RpHryw0WvuA1K2kA/nAeQ8K+Sp/74Q=
+
+Name: lib/security-common-8.0.1.R2024-05-RT.jar
+SHA-256-Digest: RA+cjVZFzntWta/BSQH1a84yfER9Q26j8tYKviT3ft8=
+
+Name: lib/slf4j-api-1.7.34.jar
+SHA-256-Digest: WYc4ZbjCWoNWP4+PyT/+e78A+2gX9poEIOC5CTgeWmM=
+
+Name: lib/spring-aop-5.3.39.jar
+SHA-256-Digest: qnBuT3SZgsC65fpjdDPETCTw//XRbcQd7qbTDD36fIU=
+
+Name: lib/spring-beans-5.3.39.jar
+SHA-256-Digest: tml6XY+suBqnXlpG2VnUJW2pzjtA0z87W71CqLHtVyI=
+
+Name: lib/spring-context-5.3.39.jar
+SHA-256-Digest: nmRPwzvs6anLglOBZ6G5ZArnt9gCUuiT2JuJJqL4FjM=
+
+Name: lib/spring-core-5.3.39.jar
+SHA-256-Digest: Oh3c8FQgqRgb2crLYGKj7cST4U1VWWGtUOGmNg6x518=
+
+Name: lib/spring-expression-5.3.39.jar
+SHA-256-Digest: 1TN3dNiJ/NycCLDIuKqhAY1Mlbm0QdsBGPeuTTKPKBA=
+
+Name: lib/spring-web-5.3.39.jar
+SHA-256-Digest: RE8kO5NhGbVIgCny2TmaOYCFXGC0k7nigRRkxkM6K3E=
+
+Name: lib/spring-webmvc-5.3.39.jar
+SHA-256-Digest: GtiiukaMBwJLpjy3aBuzCi7PjZESTwD9tKPRhBMbh+0=
+
+Name: lib/stax-ex-1.8.3.jar
+SHA-256-Digest: vuCNoQu8SBQYoa9wuemoAyG3Rb+029676YwaoXxFyvg=
+
+Name: lib/stax2-api-4.2.1.jar
+SHA-256-Digest: Z4Vn5ItRpCxlxpnyZlOa09Z21LGlsK19iezoudV3JXk=
+
+Name: lib/system-routines-dq.jar
+SHA-256-Digest: vaDQjuNFAD6qJDXaM4Fnbvb7bvsN4933nrnlYB9J0+M=
+
+Name: lib/system-routines.jar
+SHA-256-Digest: 2EwTTPpMcF8/inVQwsIhj0jpmvSda1dml6yg3u8gUSE=
+
+Name: lib/talendCBP-1.1.5.jar
+SHA-256-Digest: 9Ggu4Ns7pMRbEQ7oeqqRK+xI/BEdUDJh7YYTM2kG7Tc=
+
+Name: lib/talend_file_enhanced-1.3.1.jar
+SHA-256-Digest: WO3nYCz5Esc7LVIHaA4xVQZCU5WR8Qf/bJVjkuGRUeg=
+
+Name: lib/talendagent-1.0.2.jar
+SHA-256-Digest: yjw4gNSIPLbTYoSTu4EspKUNcQwPgy1FKT04JNGgUkg=
+
+Name: lib/talendboot-1.0.9.jar
+SHA-256-Digest: GZyEeD8R3nF2N1gh/rwtvu8Nw+JPMt1yUqWvnd/oxdo=
+
+Name: lib/txw2-2.3.3.jar
+SHA-256-Digest: l96JAxNI/O2NjVi5wojCGFqwe+3HpZHwcDd8Rd2wX+4=
+
+Name: lib/woodstox-core-6.4.0.jar
+SHA-256-Digest: 1uufL0AEmnqAi68R/7oHN2SOYv9S/eknHYCOXVeicnk=
+
+Name: lib/wsdl4j-1.6.3.jar
+SHA-256-Digest: dA9Ejms7wRDgL0oeVvtXZy5zLS7K8prhWDUFGuivRyU=
+
+Name: lib/wss4j-bindings-2.4.1.jar
+SHA-256-Digest: S+FDSp/gt18nWdcHo0qiGdINJmcJBUtdJYj4KjuKq+g=
+
+Name: lib/wss4j-policy-2.4.1.jar
+SHA-256-Digest: NZvL64TQKnVFgwiTUpNeXtDX9DVy2A3EWlh9jR4f32A=
+
+Name: lib/wss4j-ws-security-common-2.4.1.jar
+SHA-256-Digest: oV8FQIhy+t2/P0xEzMuHd/SFb2C2p+mRzsz7vF7Kt88=
+
+Name: lib/wss4j-ws-security-dom-2.4.1.jar
+SHA-256-Digest: HC6DoGLsg76+HVAzP7gU89NCHxd+qgnulb7hvoR00wk=
+
+Name: lib/wss4j-ws-security-policy-stax-2.4.1.jar
+SHA-256-Digest: sOaKMIJpsX9ExY5L1DF+er0yMazXkIFUkDdnvbL7oBE=
+
+Name: lib/wss4j-ws-security-stax-2.4.1.jar
+SHA-256-Digest: ZoGwlxJhuDvsQkWZtNhEz7hcyqvu6TpV60dMoBqyN6Y=
+
+Name: lib/xmlschema-core-2.2.5.jar
+SHA-256-Digest: gDGU2YdxEOosp5WwsWsTyJhR9jHVxgGrXvnY7H4bDqY=
+
+Name: lib/xmlsec-2.2.6.jar
+SHA-256-Digest: kyXt+eJEmjExW38MSSBIQNRls49+g+zJRx2hJeo9W3U=
+
