@@ -5,8 +5,12 @@ pool:
   name: Default
 
 steps:
-# 1. Run the Talend Job using the .jar file
+# 1. Checkout the repository (make sure the .jar is in the repo)
+- checkout: self
+  displayName: 'Checkout Repository'
+
+# 2. Run the Talend Job using the .jar file
 - script: |
     echo "Running Talend Job"
-    java -jar $(Build.SourcesDirectory)\MyRESTService_0.1.jar
+    java -jar MyRESTService_0.1.jar  # Path to the .jar file in the repo
   displayName: 'Run Talend Job'
