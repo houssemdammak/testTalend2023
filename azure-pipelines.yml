@@ -2,7 +2,7 @@ trigger:
 - main  # Trigger the pipeline on commits to the main branch
 
 pool:
-  vmImage: ubuntu-latest  # Use Ubuntu agent with pre-installed Java
+  name: Default
 
 steps:
 # 1. Run the Talend Job using the .jar file
