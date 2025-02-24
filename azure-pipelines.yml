@@ -1,0 +1,16 @@
+trigger:
+- main  # Trigger the pipeline on commits to the main branch
+
+pool:
+  name: Default
+
+steps:
+# 1. Checkout the repository (make sure the .jar is in the repo)
+- checkout: self
+  displayName: 'Checkout Repository'
+
+# 2. Run the Talend Job using the .jar file
+- script: |
+    echo "Running Talend Job"
+    java -jar MyRESTService_0.1.jar
+  displayName: 'Run Talend Job'
