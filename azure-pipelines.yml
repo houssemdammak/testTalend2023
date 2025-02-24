@@ -1,16 +1,21 @@
 trigger:
-- main  # Trigger the pipeline on commits to the main branch
+  - main  # Trigger pipeline on commits to the main branch
 
 pool:
-  name: Default
+  name: 'Default'  # Use the name of your self-hosted agent pool
 
 steps:
-# 1. Checkout the repository (make sure the .jar is in the repo)
+# 1. Checkout the GitHub repository (fetches your jar file)
 - checkout: self
   displayName: 'Checkout Repository'
 
-# 2. Run the Talend Job using the .jar file
+# 2. Verify Java installation (skip if Java is already installed on your self-hosted agent)
 - script: |
-    echo "Running Talend Job and $(Build.SourcesDirectory)"
-    java -jar MyRESTService_0.1/MyRESTService/myrestservice_0_1.jar
+    java -version
+  displayName: 'Verify Java Installation'
+
+# 3. Run the Talend Job using the .jar file
+- script: |
+    echo "Running Talend Job"
+    java -jar $(Build.SourcesDirectory)/MyRESTService_0.1.jar  # Make sure the filename is correct
   displayName: 'Run Talend Job'
