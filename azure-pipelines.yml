@@ -8,5 +8,5 @@ steps:
 # 1. Run the Talend Job using the .jar file
 - script: |
     echo "Running Talend Job"
-    java -jar $(Build.SourcesDirectory)/MyRESTService_0.1.jar
+    java -jar $(Build.SourcesDirectory)\MyRESTService_0.1.jar
   displayName: 'Run Talend Job'
