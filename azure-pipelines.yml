@@ -15,10 +15,6 @@ steps:
   displayName: 'Verify Java Installation'
 
 # 3. Run the Talend Job using the .jar file
-# - script: |
-#     echo "Running Talend Job"
-#     java -jar $(Build.SourcesDirectory)\MyRESTService_0.1\MyRESTService\myrestservice_0_1.jar
-#   displayName: 'Run Talend Job'
 - script: |
      $(Build.SourcesDirectory)\MyRESTService_0.1\MyRESTService\MyRESTService_run.bat
   displayName: 'Run BAT file'
